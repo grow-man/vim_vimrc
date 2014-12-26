@@ -75,7 +75,6 @@ let g:winManagerWindowLayout="FileExplorer|TagList"
 let g:winManagerWidth=30
 nmap dir :WMToggle<cr>
 
-
 " show line number
 set nu
 
