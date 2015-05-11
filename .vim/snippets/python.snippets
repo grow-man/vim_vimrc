@@ -10,7 +10,7 @@ snippet imp
 
 #lxw 2013/12/28 使中文输入有效
 snippet utf
-	#coding:utf-8
+	#coding: utf-8
 	#如果想有中文注释就必须得有上面的语句
 snippet xjjhsl
 	#include ,iostream>
@@ -20,10 +20,14 @@ snippet xjjhsl
 # Module Docstring
 #lxw 2013/12/28 文档说明
 snippet docs
-	#File: `Filename('$1.py')`
-	#Author: lxw
-	#Time: `system("date +%Y-%m-%d")`
-	#Usage: ${1}
+	#!/usr/bin/python2.7
+	# FileName: `Filename('$1.py')`
+	# Author: lxw
+	# Date: `system("date +%Y-%m-%d")`
+
+	"""
+	${1}
+	"""
 snippet wh
 	while ${1:condition}:
 		${2:# code...}
