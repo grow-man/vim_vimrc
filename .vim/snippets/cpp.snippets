@@ -10,11 +10,16 @@ snippet #inc
 	}
 #snippet docs
 snippet cpp
-	//File: `Filename('$1.cpp')`
-	//Author: lxw
-	//Time: `system("date +%Y-%m-%d")`
-	//Usage: ${1}
-	//Changes:
+	// File: `Filename('$1.cpp')`
+	// Author: lxw
+	// Date: `system("date +%Y-%m-%d")`
+
+	/*
+	Num `'$1.cpp'`:
+	Source:
+	${1}
+	*/
+
 # Read File Into Vector
 snippet readfile
 	std::vector<char> v;
