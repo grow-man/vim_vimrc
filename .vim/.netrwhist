@@ -1,8 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/lxw/.vim/.git'
 let g:netrw_dirhist_2='/home/lxw'
 let g:netrw_dirhist_3='/home/lxw/Project/monitorURL'
 let g:netrw_dirhist_4='/home/lxw/Project/monitorURL/.git'
 let g:netrw_dirhist_5='/home/lxw/monitorURL'
-let g:netrw_dirhist_6='/home/lxw/Documents/Programing/Algorithm/LeetCode_lxw/.git'
+let g:netrw_dirhist_6='/home/lxw/Templates/monitorURL/urgentIntermedia_new'
+let g:netrw_dirhist_7='/home/lxw/Templates/monitorURL'
+let g:netrw_dirhist_8='/proc/2203/root'
+let g:netrw_dirhist_9='/proc/2203/cwd'

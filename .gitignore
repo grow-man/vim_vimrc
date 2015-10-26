@@ -1,19 +1,4 @@
 #The following line is essential.
-Desktop
-Documents
-Downloads
-eclipse
-examples.desktop
-Music
-NO_test_cases
-PalindromicNumber.java
-Pictures
-Project
-Public
-python-mysqldb-1.2.3
-python-mysqldb_1.2.3-2ubuntu1.debian.tar.gz
-python-mysqldb_1.2.3-2ubuntu1.dsc
-python-mysqldb_1.2.3.orig.tar.gz
-README.md
-Templates
-Videos
+*
+!.vim
+!.vimrc
